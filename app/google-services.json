@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "948765687892",
+    "project_id": "paseafic-final",
+    "storage_bucket": "paseafic-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948765687892:android:fc248ddd4839ea2bc4adc1",
+        "android_client_info": {
+          "package_name": "org.d3if2125.paseafic_nav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948765687892-c10n5oag44mks1r1mubq1mqj0dsh4bvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3if2125.paseafic_nav",
+            "certificate_hash": "5fd5c2f54d02b8ce75439147984a6cff76f8b5ff"
+          }
+        },
+        {
+          "client_id": "948765687892-7mof0t089ogdl8opggifoo7li3ftvakl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYv9qy6bvqKIpbAYNG9bP70nzp656NFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948765687892-7mof0t089ogdl8opggifoo7li3ftvakl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

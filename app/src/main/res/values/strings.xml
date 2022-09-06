@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Paseafic</string>
+    <string name="splashscreen_judul">P a s e a f i c</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="belajar">Belajar</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="container_text">Kedalaman</string>
+    <string name="start_button">Ayo,\nMulai Belajar!</string>
+    <string name="mulai_belajar">Siapkan alat-alat, mari kita mulai menyelam. Dimulai dari laut yang terendah ya!</string>
+    <string name="kedalaman_50">Kedalaman 50 – 100 Meter</string>
+    <string name="kedalaman_200">Kedalaman 200 – 300 Meter</string>
+    <string name="kedalaman_400">Kedalaman 400 – 600 Meter</string>
+    <string name="kedalaman_700">Kedalaman 700 – 900 Meter</string>
+    <string name="kedalaman_1000">Kedalaman 1000 – 1500 Meter</string>
+    <string name="kedalaman_2000">Kedalaman 2000 – 3000 Meter</string>
+    <string name="kedalaman_3500">Kedalaman 3500 – 5000 Meter</string>
+    <string name="home_tag">Kita mengenal lautan yuk!</string>
+    <string name="home_caption">Lautan menyimpan begitu banyak misteri.
+    Siapkan dirimu dan mari mengetahui beberapa fakta diantaranya.</string>
+    <string name="berita_1">Samudra Pasifik lebih luas dari bulan</string>
+    <string name="berita_2">Tekanan di dasar lautan akan menghancurkan seseorang seperti semut</string>
+    <string name="berita_3">Lebih dari 90% bentuk kehidupan planet belum ditemukan dan berada di bawah air</string>
+    <string name="berita_4">Lautan juga memiliki danau dan sungai</string>
+    <string name="berita_5">Sejauh ini, baru 5% kehidupan di laut yang diketahui oleh manusia</string>
+    <string name="berita_6">Lautan mengandung banyak emas</string>
+    <string name="berita_7">Kabel koneksi internasional ada di dalam laut</string>
+    <string name="email_text">Email</string>
+    <string name="pass_text">Password</string>
+    <string name="regis_text">Register</string>
+    <string name="login_text">Login</string>
+    <string name="username_text">Username</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="deskripsi_aplikasi">Paseafic merupakan aplikasi yang dibuat sebagai media pembelajaran untuk mengenal lautan dan isinya, sebagian orang hanya mengetahui tingkatan dasar dari lautan.
+        Dengan adanya aplikasi Paseafic ini diharapkan dapat menambah pengetahuan tentang lautan dari yang terendah sampai yang terdalam.  </string>
+    <string name="logout">Logout</string>
+    <string name="confirm_pass">Re-enter Password</string>
+    <string name="to_login">Sudah punya akun? klik disini untuk login</string>
+    <string name="to_regis">Belum punya akun? klik disini untuk registrasi</string>
+</resources>
